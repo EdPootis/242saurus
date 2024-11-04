@@ -3,12 +3,16 @@ EdPootis:
   title: Computer Science Student
   url: https://github.com/EdPootis
   image_url: https://github.com/EdPootis.png
+  socials:
+    github: EdPootis
 
 stefarion:
   name: Stefanus Tan Jaya
   title: Honkai Star Rail Player
   url: https://github.com/stefarion
   image_url: https://github.com/stefarion.png
+  socials:
+    github: stefarion
 
 yangshun:
   name: Yangshun Tay
